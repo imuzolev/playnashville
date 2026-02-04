@@ -1,0 +1,8 @@
+Intro: || Bm (6) | A | G | G || 2x
+Ins: || Bm (6) A | G | Bm (6) A | G ||
+V: || Bm (6) A | G | Bm (6) A | G || 2x
+Ch: || Bm (6) G | D (1) A | Bm (6) G | D (1) A |
+        | Bm (6) G | D (1) A | A || 
+V: || Bm (6) A | G | Bm (6) A | G || 2x
+pCh: || Bm (6) G | D (1) A || 
+Int: || Bm (6) G | D (1) A ||
